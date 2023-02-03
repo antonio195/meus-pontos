@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minhas Milhas</string>
+    <string name="result_text">Você ganhará aproximadamente %s pontos com essa compra</string>
+    <string name="btn_convert">Converter</string>
+    <string name="input_dollar_value">Valor do Dólar (USD)</string>
+    <string name="input_real_value">Valor da compra (BRL)</string>
+</resources>
